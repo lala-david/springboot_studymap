@@ -1,2 +1,2 @@
 # springboot-studymap
-# IST LAB ... FUCKING SEMINA
+# IST LAB ....... 😠
