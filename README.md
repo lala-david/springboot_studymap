@@ -2,7 +2,7 @@
   
 # 📜 Reference
 <div align="center"> 
-<img src="https://img.shields.io/badge/Java-FFCA28?style=flat-square&logo=로고명&logoColor=red"/>
+<img src="https://img.shields.io/badge/Java-FFCA28?style=flat-square&logo=Java&logoColor=red"/>
 
 _______________________________________________________________________________________________________________ 
 - 🥽 Semina Plan
