@@ -1,11 +1,12 @@
 
   
-# 📜 Reference
+# 📜 Reference 
+<img src="https://img.shields.io/badge/Java-green?style=flat&logo=Java&logoColor=1E8CBE"/>, <img src="https://img.shields.io/badge/Spring-green?style=flat&logo=Spring&logoColor=6DB33F"/>
+
 <div align="center"> 
-<img src="https://img.shields.io/badge/Spring-green?style=flat&logo=Spring&logoColor=6DB33F"/>
- <br>
+   <br>
   </br>
-_______________________________________________________________________________________________________________ 
+ ________________________________________________________________________________________________________ 
 
 
 -  🥽 Semina Plan
