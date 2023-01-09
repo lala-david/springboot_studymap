@@ -2,7 +2,7 @@
   
 - 📜Reference
 
-![image](https://user-images.githubusercontent.com/37481441/211379983-46970562-8170-498f-a73c-82db8acaad87.png)
+- ![image](https://user-images.githubusercontent.com/37481441/211379983-46970562-8170-498f-a73c-82db8acaad87.png)
 </div>
 ____________________________________________________________________________________________________________________
 🥽 Semina Plan
