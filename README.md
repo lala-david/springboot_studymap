@@ -1,7 +1,7 @@
 
   
 # 📜 Reference 
-<img src="https://img.shields.io/badge/Java-blue?style=flat&logo=Avast&logoColor=1E8CBE"/> <img src="https://img.shields.io/badge/Spring-green?style=flat&logo=Spring&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/Java-blue?style=flat&logo=Avast&logoColor=1E8CBE"/> <img src="https://img.shields.io/badge/Spring-green?style=flat&logo=Spring&logoColor=6DB33F"/>  <img src="https://img.shields.io/badge/Amazon EC2-Orange?style=flat&logo=Amazon EC2&logoColor=FF9900"/>
 
 <div align="center"> 
    <br>
