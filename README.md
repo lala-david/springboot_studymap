@@ -1,11 +1,10 @@
 
   
 # 📜 Reference
-
+<div align="center"> 
 ![image](https://user-images.githubusercontent.com/37481441/211379983-46970562-8170-498f-a73c-82db8acaad87.png)
 
-
-<div align="center"> 
+_______________________________________________________________________________________________________________ 
   
 - 🥽 Semina Plan
 
