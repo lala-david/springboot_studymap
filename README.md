@@ -13,9 +13,6 @@
 </div>
 
 <div align="center"> 
- 
-   <br> 
-  <br/>
 
 -  🥽 Semina Plan
 
