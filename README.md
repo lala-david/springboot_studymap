@@ -1,2 +1,3 @@
 # springboot-studymap
-# IST LAB ....... 😠
+# IST LAB ....... SEMINA😇
+🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕🥕 
