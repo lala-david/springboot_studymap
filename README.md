@@ -1,13 +1,17 @@
 
   
 # 📜 Reference 
+ 
+<div align="center">
+🪓 개발 도구
 <img src="https://img.shields.io/badge/Java-blue?style=flat&logo=Avast&logoColor=1E8CBE"/> <img src="https://img.shields.io/badge/Spring-green?style=flat&logo=Spring&logoColor=6DB33F"/>  <img src="https://img.shields.io/badge/AmazonEC2-orange?style=flat&logo=AmazonEC2&logoColor=FF9900"/>
 <img src="https://img.shields.io/badge/AmazonRDS-purple?style=flat&logo=AmazonRDS&logoColor=527FFF"/>
 <img src="https://img.shields.io/badge/SpringSecurity-peacockgreen?style=flat&logo=SpringSecurity&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/IntelliJ-black?style=flat&logo=IntelliJ&logoColor=000000"/>
+</div>
 
 <div align="center"> 
-   <br>
-  </br>
+ 
  ________________________________________________________________________________________________________ 
 
 
