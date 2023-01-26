@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbada8c6-df85-4cf7-bea5-b972c9800986" name="Changes" comment="zz...😪" />
+    <list default="true" id="dbada8c6-df85-4cf7-bea5-b972c9800986" name="Changes" comment="zz...😪">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/layout/footer.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/layout/header.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/posts-save.mustache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jojoldu/book/springboot/web/dto/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jojoldu/book/springboot/web/dto/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.mustache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,7 +100,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.IndexControllerTest.메인페이지_로딩">
+  <component name="RunManager" selected="Application.Application">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jojoldu.book.springboot.Application" />
       <module name="springboot-studymap.main" />
@@ -189,8 +196,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.IndexControllerTest.메인페이지_로딩" />
         <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.IndexControllerTest.메인페이지_로딩" />
         <item itemvalue="JUnit.PostsRepositoryTest.BaseTimeEntity_등록" />
         <item itemvalue="JUnit.PostApiControllerTest.Posts_등록된다" />
         <item itemvalue="JUnit.PostsRepositoryTest.게시글저장_불러오기" />
@@ -304,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674748947467</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="zz...😪">
+      <created>1674752969341</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1674752969341</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
