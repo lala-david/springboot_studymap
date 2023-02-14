@@ -8,6 +8,8 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import java.time.LocalDateTime;
+
 @Getter
 @NoArgsConstructor
 @Entity // Table linked class express
@@ -35,6 +37,9 @@ public class Posts extends BaseTimeEntity {
         this.title = title;
         this.content = content;
     }
+
+
+
 }
 
 
