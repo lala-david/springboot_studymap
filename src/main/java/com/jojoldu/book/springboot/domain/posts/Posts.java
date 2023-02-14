@@ -1,14 +1,11 @@
 package com.jojoldu.book.springboot.domain.posts;
+
 import com.jojoldu.book.springboot.domain.BaseTimeEntity;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
-import java.time.LocalDateTime;
+
+import javax.persistence.*;
 
 @Getter
 @NoArgsConstructor
@@ -36,6 +33,7 @@ public class Posts extends BaseTimeEntity {
     public void update(String title, String content){
         this.title = title;
         this.content = content;
+
     }
 
 

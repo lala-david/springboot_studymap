@@ -58,9 +58,9 @@ public class PostsRepositoryTest {
         // then
         Posts posts = postsList.get(0);
 
-        System.out.println(">>>>>>>> createDate="+posts.getCreateDate()+", modifiedData="+posts.getModifiedData());
+        System.out.println(">>>>>>>> createDate="+posts.getCreateDate()+", modifiedData="+posts.getModifiedDate());
 
         assertThat(posts.getCreateDate()).isAfter(now);
-        assertThat(posts.getModifiedData()).isAfter(now);
+        assertThat(posts.getModifiedDate()).isAfter(now);
     }
 }
