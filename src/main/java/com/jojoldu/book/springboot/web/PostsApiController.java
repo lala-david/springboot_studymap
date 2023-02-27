@@ -1,12 +1,14 @@
 package com.jojoldu.book.springboot.web;
 
 import com.jojoldu.book.springboot.domain.posts.PostsRepository;
+import org.springframework.http.MediaType;
 import com.jojoldu.book.springboot.service.posts.PostsService;
 import com.jojoldu.book.springboot.web.dto.PostsResponseDto;
 import com.jojoldu.book.springboot.web.dto.PostsSaveRequestDto;
 import com.jojoldu.book.springboot.web.dto.PostsUpdateRequestDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
+import org.testng.annotations.Test;
 
 import java.time.LocalDate;
 
@@ -36,6 +38,19 @@ public class PostsApiController {
     public PostsResponseDto findById (@PathVariable Long id){
         return postsService.findById(id);
     }
+
+
+////    @Test
+////    @WithMockUser(roles="USER")
+////    public void Posts_등록된다() throws Exception {
+////
+////    }
+////
+////    @Test
+////    @WithMockUser(roles="USER")
+////    public void Posts_수정된다() throws  Exception {
+//
+//    }
 
 }
 
